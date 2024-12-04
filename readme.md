@@ -3,7 +3,7 @@
 install [SP1 SDK](https://docs.succinct.xyz/getting-started/install.html)
 and [Docker](https://www.docker.com/)
 
-clone this repo:
+clone with git:
 
 ```bash
 git clone https://github.com/material-work/modulation-node.git
