@@ -33,6 +33,7 @@ async fn main() -> eyre::Result<()> {
     let txs = [
         b256!("efe792bb5130db405b2d7feb683a6bb4d1ec002e88843cd478dcfd5105d1d964"),
         b256!("5624feb01173396f3c26169ac4bc4122525a7a90f38c3851bebb9becf73d1ab8"),
+        b256!("25a64b120544a2e45974823e152fa7dd407c6ec3746a77a5ed054079cbd45027"),
     ];
 
     for tx in txs {
